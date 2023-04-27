@@ -1,8 +1,8 @@
 # app_geolocation
 
-A new Flutter project for tests in geolocation functions .
+Simple poc a new Flutter project for tests  geolocation functions
 
-- Run project use flutter clean / flutter pub dev / flutter run
+- Run project use flutter clean / flutter pub get / flutter run
 
 
 ## Getting Started
